@@ -115,3 +115,6 @@ BX-CSV-Dump/
 ml-latest-small/
 spark-warehouse/
 venv/
+BX-CSV-Dump.zip
+nohup.out
+
