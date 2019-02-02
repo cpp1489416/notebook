@@ -1,0 +1,23 @@
+[I 16:41:23.548 NotebookApp] 启动notebooks 在本地路径: /home/username/projects/books_recommend
+[I 16:41:23.548 NotebookApp] 本程序运行在: http://(localhost.localdomain or 127.0.0.1):8888/
+[I 16:41:23.548 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[W 16:41:23.655 NotebookApp] 404 GET /api/kernels/9b71f201-e57a-4d37-ba80-dbf30cef6ade/channels?session_id=ef8e406162ce4ef1a70ac0ad1e413bd5 (192.168.231.1): Kernel does not exist: 9b71f201-e57a-4d37-ba80-dbf30cef6ade
+[W 16:41:23.684 NotebookApp] 404 GET /api/kernels/9b71f201-e57a-4d37-ba80-dbf30cef6ade/channels?session_id=ef8e406162ce4ef1a70ac0ad1e413bd5 (192.168.231.1) 42.33ms referer=None
+[W 16:41:31.393 NotebookApp] Notebook books_recommend.ipynb is not trusted
+[I 16:41:32.031 NotebookApp] Kernel started: 56b69cf8-5617-43ab-9fca-001f66f094be
+[I 16:41:32.932 NotebookApp] Adapting to protocol v5.1 for kernel 56b69cf8-5617-43ab-9fca-001f66f094be
+[I 16:43:32.743 NotebookApp] Saving file at /books_recommend.ipynb
+[W 16:43:32.744 NotebookApp] Notebook books_recommend.ipynb is not trusted
+[I 16:59:43.055 NotebookApp] Saving file at /books_recommend/settings.py
+[I 17:01:27.137 NotebookApp] Starting buffering for 56b69cf8-5617-43ab-9fca-001f66f094be:69bdbc0ad9b549ecaaf764018d0395e5
+[I 17:06:12.925 NotebookApp] 302 GET / (192.168.231.1) 3.70ms
+[I 17:06:46.704 NotebookApp] 302 GET / (192.168.231.1) 2.46ms
+[W 17:10:19.329 NotebookApp] Notebook csv_to_mysql_book_user.ipynb is not trusted
+[I 17:10:19.580 NotebookApp] Kernel started: ae9225fa-130a-408b-8802-d48d82aca153
+[I 17:10:20.385 NotebookApp] Adapting to protocol v5.1 for kernel ae9225fa-130a-408b-8802-d48d82aca153
+[I 18:56:16.785 NotebookApp] 启动notebooks 在本地路径: /home/username/projects/books_recommend
+[I 18:56:16.785 NotebookApp] 本程序运行在: http://(localhost.localdomain or 127.0.0.1):8888/
+[I 18:56:16.786 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[W 18:56:20.763 NotebookApp] Notebook csv_to_mysql_ratings.ipynb is not trusted
+[I 18:56:21.115 NotebookApp] Kernel started: 67902eb5-a1a1-4256-8eea-fa5740fdf6d0
+[I 18:56:22.226 NotebookApp] Adapting to protocol v5.1 for kernel 67902eb5-a1a1-4256-8eea-fa5740fdf6d0
